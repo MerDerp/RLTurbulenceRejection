@@ -10,3 +10,4 @@ Make sure wind turbulence is set to a constant seed if you want to train the age
 
 The error sim runs simulation for 60s 20 times, just set the PID or agent to control the system
 
+Trainresult and Trainagent.mats are the final agents
